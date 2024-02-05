@@ -1,1 +1,1 @@
-This is tutorial repository
+This is tutorial repository. First PR
